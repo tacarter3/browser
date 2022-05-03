@@ -2,7 +2,7 @@
   "name": "browser",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:3005",
+  "proxy": "https://git.heroku.com/evening-ocean-18790.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
